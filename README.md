@@ -3,5 +3,9 @@ Geri Yayılım Algoritması, yapay sinir ağları için özel bir öğrenme kura
 
 Bu örnek aşağıda belirtilen örnek girdiler ve ilk ağırlıklar dahilinde; 3 adet giriş katmanı, 2 adet gizli katman ve 1 adet çıkış katmanı ele alınarak modellenmiştir.
 
+**Not:** Momentum katsayısı "1" olarak kabul edilmiştir.
+
+**Örnek veriler ve giriş ağırlıkları:
+
 ![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysa-data.PNG)
 ![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysamodel.PNG)
