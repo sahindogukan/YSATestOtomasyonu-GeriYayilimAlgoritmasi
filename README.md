@@ -11,4 +11,8 @@ Bu örnek aşağıda belirtilen örnek girdiler ve ilk ağırlıklar dahilinde; 
 ![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysamodel.PNG)
 
 **Kullanım**
-![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysa.png)
+![GitHub Logo](https://github.com/sahindogukan/NodeJSProject-marketsende/blob/master/marketsende.herokuapp.com.png)
+![GitHub Logo](https://github.com/sahindogukan/NodeJSProject-marketsende/blob/master/marketsende.herokuapp.com2.png)
+![GitHub Logo](https://github.com/sahindogukan/NodeJSProject-marketsende/blob/master/marketsende.herokuapp.com3.png)
+![GitHub Logo](https://github.com/sahindogukan/NodeJSProject-marketsende/blob/master/marketsende.herokuapp.com4.png)
+![GitHub Logo](https://github.com/sahindogukan/NodeJSProject-marketsende/blob/master/marketsende.herokuapp.com5.png)
