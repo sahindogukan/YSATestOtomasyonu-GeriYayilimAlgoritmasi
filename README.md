@@ -5,13 +5,13 @@ Bu örnek aşağıda belirtilen örnek girdiler ve ilk ağırlıklar dahilinde; 
 
 **Not:** Momentum katsayısı "1" olarak kabul edilmiştir.
 
-**Örnek veriler ve giriş ağırlıkları:**
+## Örnek veriler ve giriş ağırlıkları:
 
 ![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysa-data.PNG)
 ![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysamodel.PNG)
 
-**Kullanım**
-![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysamodel.PNG)
+## Kullanım Web Arayüzü:
+![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysa.png)
 
 
 
