@@ -14,4 +14,3 @@ Bu örnek aşağıda belirtilen örnek girdiler ve ilk ağırlıklar dahilinde; 
 ![GitHub Logo](https://github.com/sahindogukan/BackPropagationAlgorithm/blob/master/ysa.png)
 
 
-
